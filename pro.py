@@ -1,2 +1,5 @@
 tup=(10,20,30,40,50,60) 
-print(tuple)
+print(tuple)   
+
+a=tup.count(40) 
+print(a)
